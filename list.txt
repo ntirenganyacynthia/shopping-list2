@@ -3,3 +3,10 @@ chocolate
 popcorn
 crisps
 sweets
+sugar
+salt
+rice
+vegetables
+beans
+cooking oil
+
