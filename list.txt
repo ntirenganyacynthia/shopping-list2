@@ -9,4 +9,10 @@ rice
 vegetables
 beans
 cooking oil
-
+soaps
+detergent
+gloves
+mopper
+vim
+bucket
+harpic
